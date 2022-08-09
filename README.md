@@ -15,4 +15,4 @@ This repository contains my work for learning **Machine Learning** using **Sciki
 
 ---
 
-I have built a [Movie Recommendation System](https://github.com/iriskimm/movie-recommendation) to apply the machine learning knowledge I gained here. This ML model recommends a movie to the user based on Demographic Filtering, Content Based Filtering, and Collaborative Filtering.
+I have built a [Movie Recommendation System](https://github.com/iriskimm/movie-recommendation) to apply the machine learning knowledge I gained here. This ML model recommends a list of movies to the user based on Demographic Filtering, Content Based Filtering, and Collaborative Filtering.
